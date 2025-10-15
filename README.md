@@ -1,4 +1,4 @@
-# Git Assignment
+# Assignment
 
 This repository was created as part of my university Git & GitHub assignment.
 
